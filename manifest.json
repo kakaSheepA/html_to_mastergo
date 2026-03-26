@@ -1,0 +1,10 @@
+{
+  "name": "html_to_mastergo",
+  "id": 188735753489169,
+  "api": "1.0.0",
+  "main": "dist/main.js",
+  "ui": "dist/index.html",
+  "editor_type": [
+    "canvas"
+  ]
+}
